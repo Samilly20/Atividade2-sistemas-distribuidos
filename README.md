@@ -18,9 +18,9 @@ Como executar:
 O script enviará mensagens para a fila e as processará em seguida.
 
 Resultado esperado:
-[x] Enviada: Tarefa 1.
-[x] Enviada: Tarefa 2..
-[x] Enviada: Tarefa 3...
+[x] Enviada: Primeira mensagem.
+[x] Enviada: Segunda mensagem.
+[x] Enviada: Terceira mensagem...
 Todas as mensagens foram enviadas.
 
 Aguardando mensagens. Pressione Ctrl+C para sair.
